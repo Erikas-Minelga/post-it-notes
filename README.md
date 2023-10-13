@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Post It Notes App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a little project I put together while learning React.
+
+Post-It-Notes app is an interactive experience where users can create, edit, delete and move their notes all across the page, just like with the real Noteboard. 
+
+This project uses a React DnD library which contains components and hooks to facilitate the drag and drop functionality. In addition, all notes are stored in local storage, so their location and content will persist between sessions.
+
+## Credits
+
+ReactDnD: https://react-dnd.github.io/react-dnd/about
+
+# Running Instructions
 
 ## Available Scripts
 
